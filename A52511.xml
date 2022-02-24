@@ -1,0 +1,825 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The names of the lords and other the commissioners for Greenwich Hospital</title>
+            <author>Royal Hospital for Seamen at Greenwich.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52511</idno>
+            <idno type="STC">Wing N139</idno>
+            <idno type="STC">ESTC R17511</idno>
+            <idno type="EEBO-CITATION">11862254</idno>
+            <idno type="OCLC">ocm 11862254</idno>
+            <idno type="VID">50038</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52511)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50038)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 502:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The names of the lords and other the commissioners for Greenwich Hospital</title>
+                  <author>Royal Hospital for Seamen at Greenwich.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, and the Executrix of Thomas Newcomb ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal Hospital for Seamen at Greenwich.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_commissioners">
+            <pb n="1" facs="tcp:50038:1"/>
+            <head>THE NAMES OF THE Lords and other the Commiſſioners FOR Greenwich Hoſpital.</head>
+            <list>
+               <item>His Royal Highneſs the Prince of <hi>Denmark.</hi>
+               </item>
+            </list>
+            <list>
+               <item>
+                  <hi>Sir</hi> Thomas Abney.</item>
+               <item>
+                  <hi>Sir</hi> Matthew Andrews.</item>
+               <item>
+                  <hi>Sir</hi> William Aſhhurſt.</item>
+               <item>
+                  <hi>Sir</hi> Benjamin Ayloffe.</item>
+               <item>
+                  <hi>Sir</hi> Rowland Aynſworth.</item>
+               <item>John Adams.</item>
+               <item>Daniel Allen.</item>
+               <item>Jonathan Andrews.</item>
+               <item>Samuel Atkinſon.</item>
+               <item>Robert Attwood.</item>
+               <item>Robert Auſten.</item>
+               <item>Humphrey Ayles.</item>
+               <item>Matthew Aylmer.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Duke of</hi> Bolton.</item>
+               <item>
+                  <hi>Duke of</hi> Bedford.</item>
+               <item>
+                  <hi>Earl of</hi> Bridgwater.</item>
+               <item>
+                  <hi>Earl of</hi> Bathe.</item>
+               <item>
+                  <hi>Earl of</hi> Berkley.</item>
+               <item>
+                  <hi>Earl of</hi> Bradford.</item>
+               <item>
+                  <hi>Biſhop of</hi> Bangor.</item>
+               <item>
+                  <hi>Biſhop of</hi> Bathe <hi>and</hi> Wells.</item>
+               <item>
+                  <hi>Biſhop of</hi> Briſtol.</item>
+               <item>
+                  <hi>Lord</hi> Berkley.</item>
+               <item>
+                  <hi>Sir</hi> John Banks.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Barnardiſton.</item>
+               <item>
+                  <hi>Sir</hi> Samuel Barnardiſton.</item>
+               <item>
+                  <hi>Sir</hi> Benjamin Bathurſt.</item>
+               <item>
+                  <hi>Sir</hi> William Booth.</item>
+               <item>
+                  <hi>Sir</hi> John Brownlowe.</item>
+               <item>
+                  <hi>Sir</hi> John Buckworth.</item>
+               <item>
+                  <hi>Sir</hi> James Butler.</item>
+               <item>William Baker.</item>
+               <item>Charles Ball.</item>
+               <item>Arthur Baron.</item>
+               <item>Joas Bateman.</item>
+               <item>James Bateman.</item>
+               <item>Arthur Bayly.</item>
+               <item>Robert Beddingfeild.</item>
+               <item>John Benbow.</item>
+               <item>Hopefor Bendall.</item>
+               <item>Charles Bertie.</item>
+               <item>Peregrine Bertie.</item>
+               <item>Thomas Blackmoore <hi>ſen.</hi>
+               </item>
+               <item>Thomas Blackmoore <hi>ju.</hi>
+               </item>
+               <item>James Bodington.</item>
+               <item>Robert Bodington.</item>
+               <item>Edmund Bolter.</item>
+               <item>John Bonnell.</item>
+               <item>Hugh Boſcawen.</item>
+               <item>George Boun.</item>
+               <item>John Bowers.</item>
+               <pb n="2" facs="tcp:50038:2"/>
+               <item>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nthony Bowyer.</item>
+               <item>George Bradbury.</item>
+               <item>Francis Brerewood.</item>
+               <item>Edward Brewſter.</item>
+               <item>Samuel Brewſter.</item>
+               <item>William Bridgeman.</item>
+               <item>Shem Bridges.</item>
+               <item>Brook Bridges.</item>
+               <item>Robert Briſtow.</item>
+               <item>William Broughton.</item>
+               <item>Leonard Browne.</item>
+               <item>John Brumwell.</item>
+               <item>Owen Buckingham.</item>
+               <item>Joſiah Burchett.</item>
+               <item>Adryan Byer.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Arch Biſhop of</hi> Canterbury.</item>
+               <item>
+                  <hi>Marqueſs of</hi> Carmarthen.</item>
+               <item>
+                  <hi>Earl of</hi> Craven.</item>
+               <item>
+                  <hi>Viſcount</hi> Cheyney.</item>
+               <item>
+                  <hi>Biſhop of</hi> Carliſle.</item>
+               <item>
+                  <hi>Biſhop of</hi> Cheſter.</item>
+               <item>
+                  <hi>Biſhop of</hi> Chicheſter.</item>
+               <item>
+                  <hi>Lord</hi> Cornwallis.</item>
+               <item>
+                  <hi>Lord</hi> Capell.</item>
+               <item>
+                  <hi>Lord</hi> Coningesby.</item>
+               <item>
+                  <hi>Sir</hi> Joſiah Child.</item>
+               <item>
+                  <hi>Sir</hi> Francis Child.</item>
+               <item>
+                  <hi>Sir</hi> Edward Clarke.</item>
+               <item>
+                  <hi>Sir</hi> Robert Clayton.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Cooke.</item>
+               <item>
+                  <hi>Sir</hi> John Cope.</item>
+               <item>
+                  <hi>Sir</hi> William Cowper.</item>
+               <item>
+                  <hi>Dr.</hi> Salisbury Cade.</item>
+               <item>Nicholas Cary.</item>
+               <item>John Cary</item>
+               <item>Robert Caſtle.</item>
+               <item>James Chadwick.</item>
+               <item>Charles Chamberlaine.</item>
+               <item>Caeſar Chamberlaine.</item>
+               <item>John Charlton.</item>
+               <item>Nicholas Charlton.</item>
+               <item>Samuel Clarke.</item>
+               <item>Edward Clarke.</item>
+               <item>Maynard Colcheſter.</item>
+               <item>George Cole.</item>
+               <item>James Collet.</item>
+               <item>Thomas Colſon.</item>
+               <item>Edward Colſon.</item>
+               <item>James Conaway.</item>
+               <item>John Conyers.</item>
+               <item>Gerard Conyers.</item>
+               <item>Nicholas Cooke.</item>
+               <item>Henry Corniſh.</item>
+               <item>Richard Cradock.</item>
+               <item>Henry Criſp.</item>
+               <item>William Cruft.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Duke of</hi> Devonſhire.</item>
+               <item>
+                  <hi>Earl of</hi> Dorſet.</item>
+               <item>
+                  <hi>Lord</hi> Durſley.</item>
+               <item>
+                  <hi>Biſhop of</hi> Durham.</item>
+               <item>
+                  <hi>Sir</hi> Peter Daniel.</item>
+               <item>
+                  <hi>Sir</hi> Samuel Daſhwood.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Daval.</item>
+               <item>
+                  <hi>Sir</hi> Robert Davers.</item>
+               <item>
+                  <hi>Sir</hi> Ralph Delaval.</item>
+               <item>John Danvers.</item>
+               <item>Thomas Darwin.</item>
+               <item>Francis Daſhwood.</item>
+               <item>John Deacle.</item>
+               <item>Duncan Dee.</item>
+               <item>James Denew.</item>
+               <item>William Desbovery.</item>
+               <item>George Dodington.</item>
+               <item>Robert Dorrell <hi>ſen.</hi>
+               </item>
+               <item>John Dorrell <hi>jun.</hi>
+               </item>
+               <item>William Draper.</item>
+               <item>John Drigue.</item>
+               <item>Peter Ducane.</item>
+               <item>Edmund Dummer.</item>
+               <item>Charles Duncomb.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Biſhop of</hi> Exeter.</item>
+               <item>
+                  <hi>Biſhop of</hi> Ely.</item>
+               <item>
+                  <hi>Sir</hi> Humphrey Edwyn.</item>
+               <pb n="3" facs="tcp:50038:2"/>
+               <item>
+                  <hi>Sir</hi> Stephen Evance.</item>
+               <item>
+                  <hi>Sir</hi> John Eyles.</item>
+               <item>
+                  <hi>Sir</hi> Samuel Eyre.</item>
+               <item>John Egleton.</item>
+               <item>Edward Ettrick.</item>
+               <item>John Evelyn <hi>ſen.</hi>
+               </item>
+               <item>John Evelyn <hi>jun.</hi>
+               </item>
+               <item>Francis Eyles.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Earl of</hi> Faulconberge.</item>
+               <item>
+                  <hi>Sir</hi> John Fleet.</item>
+               <item>
+                  <hi>Sir</hi> James Forbes.</item>
+               <item>
+                  <hi>Sir</hi> William Foreſter.</item>
+               <item>
+                  <hi>Sir</hi> John Foche.</item>
+               <item>
+                  <hi>Sir</hi> Stephen Fox.</item>
+               <item>
+                  <hi>Sir</hi> Henry Furnes.</item>
+               <item>William Falconer.</item>
+               <item>William Fazakerly.</item>
+               <item>Thomas Felton.</item>
+               <item>Bartholomew Fillingham.</item>
+               <item>Thomas Firmin.</item>
+               <item>Robert Fiſher.</item>
+               <item>John Flamſteed</item>
+               <item>Peter Floyer.</item>
+               <item>Paul Foley.</item>
+               <item>Thomas Foley.</item>
+               <item>James Fowles.</item>
+               <item>Charles Fox.</item>
+               <item>Andrew Franklyn.</item>
+               <item>Thomas Frederick.</item>
+               <item>John Freeman.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Biſhop of</hi> Glouceſter.</item>
+               <item>
+                  <hi>Lord</hi> Godolphin.</item>
+               <item>
+                  <hi>Sir</hi> Henry Goodrick.</item>
+               <item>
+                  <hi>Sir</hi> William Gore.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Grantham.</item>
+               <item>
+                  <hi>Sir</hi> William Gregory.</item>
+               <item>
+                  <hi>Dr.</hi> Thomas Gardner.</item>
+               <item>John Genew.</item>
+               <item>James Gibſon.</item>
+               <item>Roger Gillingham.</item>
+               <item>William Glanville <hi>ſen.</hi>
+               </item>
+               <item>William Glanville <hi>jun.</hi>
+               </item>
+               <item>Thomas Goddard.</item>
+               <item>Peter Godfrey.</item>
+               <item>Charles Godolphin.</item>
+               <item>George Gooday.</item>
+               <item>Francis Gosfright.</item>
+               <item>Henry Greenhill.</item>
+               <item>John Grey.</item>
+               <item>William Gutteridge.</item>
+               <item>Henry Guy.</item>
+               <item>Thomas Guy.</item>
+               <item>Richard Gwyn.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Biſhop of</hi> Hereford.</item>
+               <item>
+                  <hi>Sir</hi> Richard Haddock.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Halton.</item>
+               <item>
+                  <hi>Sir</hi> Charles Hedges.</item>
+               <item>
+                  <hi>Sir</hi> William Hedges.</item>
+               <item>
+                  <hi>Sir</hi> Joſeph Herne.</item>
+               <item>
+                  <hi>Sir</hi> John Holt.</item>
+               <item>
+                  <hi>Sir</hi> William Hooker.</item>
+               <item>
+                  <hi>Sir</hi> John Houblon.</item>
+               <item>
+                  <hi>Sir</hi> James Houblon.</item>
+               <item>
+                  <hi>Sir</hi> Robert Howard.</item>
+               <item>
+                  <hi>Sir</hi> John Huband.</item>
+               <item>Thomas Hall.</item>
+               <item>Urban Hall.</item>
+               <item>James Hallet.</item>
+               <item>Richard Hampden.</item>
+               <item>John Hardrett.</item>
+               <item>Robert Harleigh.</item>
+               <item>John Harvey.</item>
+               <item>Henry Hatley.</item>
+               <item>Henry Hatſell.</item>
+               <item>Lawrence Hatſell.</item>
+               <item>Nathaniel Hawes.</item>
+               <item>John Hawles.</item>
+               <item>Whitfeild Hayter.</item>
+               <item>John Hazlewood.</item>
+               <item>William Heath.</item>
+               <item>Gilbert Heathcott.</item>
+               <item>Nathaniel Herne.</item>
+               <item>Edward Herriz.</item>
+               <pb n="4" facs="tcp:50038:3"/>
+               <item>William Hewer.</item>
+               <item>John Hill.</item>
+               <item>Richard Hoare.</item>
+               <item>
+                  <hi>Dr.</hi> Robert Hooke.</item>
+               <item>William Hooker.</item>
+               <item>Thomas Hopſon.</item>
+               <item>Nathaniel Horneby.</item>
+               <item>Peter Houblon.</item>
+               <item>Iſaac Houblon.</item>
+               <item>Nathaniel Houlton.</item>
+               <item>Matthew Humberton.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Sir</hi> Robert Jeffreys.</item>
+               <item>
+                  <hi>Sir</hi> Henry Johnſon.</item>
+               <item>John Jacob.</item>
+               <item>John Jeoffreys.</item>
+               <item>Jeffry Jeoffreys.</item>
+               <item>John Johnſon.</item>
+               <item>Samuel Jones.</item>
+               <item>Joſeph Jory.</item>
+               <item>Peter Joy.</item>
+               <item>Charles Iſaac.</item>
+               <item>William Ivat.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Sir</hi> Thomas Kinſey.</item>
+               <item>Joſeph Keeble.</item>
+               <item>John Kent.</item>
+               <item>Henry Killigrew.</item>
+               <item>John Knapp.</item>
+               <item>John Knight.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Duke of</hi> Leeds.</item>
+               <item>
+                  <hi>Earl of</hi> Lindſey.</item>
+               <item>
+                  <hi>Biſhop of</hi> London.</item>
+               <item>
+                  <hi>Biſhop of</hi> Landaffe.</item>
+               <item>
+                  <hi>Biſhop of</hi> Litch. <hi>&amp;</hi> Cov.</item>
+               <item>
+                  <hi>Biſhop of</hi> Lincoln.</item>
+               <item>
+                  <hi>Lord</hi> Lucas.</item>
+               <item>
+                  <hi>Lord</hi> Lexington.</item>
+               <item>
+                  <hi>Lord</hi> Lempſter.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Lane.</item>
+               <item>
+                  <hi>Sir</hi> William Langhorne.</item>
+               <item>
+                  <hi>Sir</hi> Nicholas Lechmere.</item>
+               <item>
+                  <hi>Sir</hi> Stephen Lennard.</item>
+               <item>
+                  <hi>Sir</hi> John Lethieulier.</item>
+               <item>
+                  <hi>Sir</hi> Richard Levett.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Littleton.</item>
+               <item>
+                  <hi>Sir</hi> John Lowther <hi>of</hi> Whitehaven.</item>
+               <item>
+                  <hi>Sir</hi> John Lowther <hi>of</hi> Lowther.</item>
+               <item>Thomas Lake.</item>
+               <item>Thomas Langham.</item>
+               <item>
+                  <hi>Dr.</hi> John Lawſon.</item>
+               <item>Edward Leman.</item>
+               <item>Samuel Lethieulier.</item>
+               <item>John Lethieulier.</item>
+               <item>Francis Levett.</item>
+               <item>William Lewin.</item>
+               <item>Dennis Liddell.</item>
+               <item>Iſaac Loader.</item>
+               <item>John Lock.</item>
+               <item>Samuel Lock.</item>
+               <item>William Lownds.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Earl of</hi> Monmouth.</item>
+               <item>
+                  <hi>Earl of</hi> Montagu.</item>
+               <item>
+                  <hi>Sir</hi> John Moore.</item>
+               <item>
+                  <hi>Sir</hi> John Morden.</item>
+               <item>
+                  <hi>Dr.</hi> Mapletoft.</item>
+               <item>Chriſtopher Maſon.</item>
+               <item>John Midgley.</item>
+               <item>David Mitchell.</item>
+               <item>Charles Montague.</item>
+               <item>Chriſtopher Montague.</item>
+               <item>John Morgan.</item>
+               <item>John Morrice.</item>
+               <item>William Mountaigne.</item>
+               <item>Nathaniel Monteney.</item>
+               <item>James Mundy.</item>
+               <item>Chriſtopher Muſgrave.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Duke of</hi> Norfolk.</item>
+               <item>
+                  <hi>Duke of</hi> Newcaſtle.</item>
+               <item>
+                  <hi>Marqueſs of</hi> Normanby.</item>
+               <item>
+                  <hi>Earl of</hi> Nottingham.</item>
+               <pb n="5" facs="tcp:50038:3"/>
+               <item>
+                  <hi>Biſhop of</hi> Norwich.</item>
+               <item>
+                  <hi>Sir</hi> Edward Nevill.</item>
+               <item>John Nevill.</item>
+               <item>George Newland.</item>
+               <item>
+                  <hi>Dr.</hi> Henry Newton.</item>
+               <item>Richard Nicholls.</item>
+               <item>John Nicholls.</item>
+               <item>John Nicholſon.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Duke of</hi> Ormond.</item>
+               <item>
+                  <hi>Earl of</hi> Oxford.</item>
+               <item>
+                  <hi>Biſhop of</hi> Oxford.</item>
+               <item>
+                  <hi>Sir</hi> Richard Onſlow.</item>
+               <item>
+                  <hi>Sir</hi> James Oxenden.</item>
+               <item>John Oliver.</item>
+               <item>Samuel Ongley.</item>
+               <item>Foot Onſlow.</item>
+               <item>Juſtus Otgar.</item>
+               <item>
+                  <hi>Dr.</hi> George Oxenden.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Earl of</hi> Pembroke.</item>
+               <item>
+                  <hi>Earl of</hi> Portland.</item>
+               <item>
+                  <hi>Biſhop of</hi> Peterborough.</item>
+               <item>
+                  <hi>Sir</hi> Peter Paravicine.</item>
+               <item>
+                  <hi>Sir</hi> John Parſons.</item>
+               <item>
+                  <hi>Sir</hi> John Powell.</item>
+               <item>
+                  <hi>Sir</hi> John Powell.</item>
+               <item>
+                  <hi>Sir</hi> William Pritchard.</item>
+               <item>John Page.</item>
+               <item>Gregory Page.</item>
+               <item>Thomas Papillon.</item>
+               <item>Philip Papillon.</item>
+               <item>Francis Parry.</item>
+               <item>Roger Paxton.</item>
+               <item>Samuel Pepys.</item>
+               <item>Andrew Percival.</item>
+               <item>John Perry.</item>
+               <item>Samuel Pett.</item>
+               <item>George Phenny.</item>
+               <item>Samuel Powell.</item>
+               <item>Henry Prieſtman.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Earl of</hi> Radnor.</item>
+               <item>
+                  <hi>Earl of</hi> Rocheſter.</item>
+               <item>
+                  <hi>Earl of</hi> Romney.</item>
+               <item>
+                  <hi>Earl of</hi> Ranelagh.</item>
+               <item>
+                  <hi>Biſhop of</hi> Rocheſter.</item>
+               <item>
+                  <hi>Sir</hi> Jonathan Raymond.</item>
+               <item>
+                  <hi>Sir</hi> Richard Raynes.</item>
+               <item>
+                  <hi>Sir</hi> Iſaac Rebow.</item>
+               <item>
+                  <hi>Sir</hi> Robert Rich.</item>
+               <item>
+                  <hi>Sir</hi> Gabriel Roberts.</item>
+               <item>
+                  <hi>Sir</hi> Robert Robinſon.</item>
+               <item>
+                  <hi>Sir</hi> Leonard Robinſon.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Rokeby.</item>
+               <item>
+                  <hi>Sir</hi> George Rooke.</item>
+               <item>
+                  <hi>Sir</hi> William Ruſſell.</item>
+               <item>John Rayley.</item>
+               <item>Robert Raworth.</item>
+               <item>Alexander Rigby.</item>
+               <item>Henry Risby.</item>
+               <item>Anthony Rowe.</item>
+               <item>Edward Rudge.</item>
+               <item>Edward Ruſſell.</item>
+               <item>Samuel Rutter.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Sir</hi> John Sommers, <hi>Lord Keeper.</hi>
+               </item>
+               <item>
+                  <hi>Duke of</hi> Somerſet.</item>
+               <item>
+                  <hi>Duke of</hi> Shrewsbury.</item>
+               <item>
+                  <hi>Earl of</hi> Stamford.</item>
+               <item>
+                  <hi>Earl of</hi> Scarborough.</item>
+               <item>
+                  <hi>Biſhop of</hi> St. Davids.</item>
+               <item>
+                  <hi>Biſhop of</hi> Sarum.</item>
+               <item>
+                  <hi>Biſhop of</hi> St. Aſaph.</item>
+               <item>
+                  <hi>Sir</hi> Jeremy Sambroke.</item>
+               <item>
+                  <hi>Sir</hi> William Scawen.</item>
+               <item>
+                  <hi>Sir</hi> John Shaw.</item>
+               <item>
+                  <hi>Sir</hi> Henry Sheres.</item>
+               <item>
+                  <hi>Sir</hi> Bartholomew Shore.</item>
+               <item>
+                  <hi>Sir</hi> Cloudeſley Shovell.</item>
+               <item>
+                  <hi>Sir</hi> Robert Southwell.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Stamp.</item>
+               <item>Balthazar St. Mitchell.</item>
+               <item>Ralph Sanderſon.</item>
+               <item>John Sanſon.</item>
+               <pb n="6" facs="tcp:50038:4"/>
+               <item>Richard Savage.</item>
+               <item>Edward Say.</item>
+               <item>Joſeph Scriven.</item>
+               <item>Obadiah Sedgewick.</item>
+               <item>William Sedgewick.</item>
+               <item>Charles Sergiſon.</item>
+               <item>Arthur Shallett.</item>
+               <item>Daniel Sheldon.</item>
+               <item>Dormer Shepherd.</item>
+               <item>Samuel Shepherd, <hi>Merch.</hi>
+               </item>
+               <item>Samuel Shepherd, <hi>Diſtil.</hi>
+               </item>
+               <item>Thomas Shepherd.</item>
+               <item>John Sherebrooke.</item>
+               <item>Joſeph Smart.</item>
+               <item>John Smith.</item>
+               <item>James Smith.</item>
+               <item>Ralph Snow.</item>
+               <item>Thomas Sorocoale.</item>
+               <item>James Sotherne.</item>
+               <item>Samuel Stanyer.</item>
+               <item>William Strong.</item>
+               <item>Thomas Stroud.</item>
+               <item>Humphrey Styles.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Earl of</hi> Thanett.</item>
+               <item>
+                  <hi>Earl of</hi> Torrington.</item>
+               <item>
+                  <hi>Earl of</hi> Tankervile.</item>
+               <item>
+                  <hi>Sir</hi> George Treby.</item>
+               <item>
+                  <hi>Sir</hi> John Trevor.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Trevor.</item>
+               <item>
+                  <hi>Sir</hi> William Trumbull.</item>
+               <item>
+                  <hi>Sir</hi> Edmund Turner.</item>
+               <item>
+                  <hi>Sir</hi> John Turton.</item>
+               <item>Nathaniel Tench.</item>
+               <item>Dalby Thomas.</item>
+               <item>Joſeph Thompſon.</item>
+               <item>William Thompſon.</item>
+               <item>Charles Thorald.</item>
+               <item>William Thursby.</item>
+               <item>Benjamin Timewell.</item>
+               <item>Samuel Travers.</item>
+               <item>Richard Trevor.</item>
+               <item>Francis Tyſſen <hi>ſen.</hi>
+               </item>
+               <item>Francis Tyſſen <hi>jun.</hi>
+               </item>
+            </list>
+            <list>
+               <item>
+                  <hi>Viſcount</hi> Villiers.</item>
+               <item>
+                  <hi>Sir</hi> Peter Vandeput.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Vernon.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Marqueſs of Lord</hi> Wincheſter.</item>
+               <item>
+                  <hi>Lord</hi> Willoughby <hi>of</hi> Eresby.</item>
+               <item>
+                  <hi>Biſhop of Lord</hi> Wincheſter.</item>
+               <item>
+                  <hi>Biſhop of Lord</hi> Worceſter.</item>
+               <item>
+                  <hi>Sir</hi> Edward Ward.</item>
+               <item>
+                  <hi>Sir</hi> Patience Ward.</item>
+               <item>
+                  <hi>Sir</hi> Chriſtopher Wrenn.</item>
+               <item>John Ward.</item>
+               <item>Godfrey Webſter.</item>
+               <item>Thomas Weſtern <hi>ſen.</hi>
+               </item>
+               <item>Thomas Weſtern <hi>jun.</hi>
+               </item>
+               <item>Thomas Wharton.</item>
+               <item>Andrew Willaw.</item>
+               <item>Thomas Wilſhaw.</item>
+               <item>William Withers <hi>ſen.</hi>
+               </item>
+               <item>John Wolfe.</item>
+               <item>James Woods.</item>
+               <item>Godfrey. Woodward.</item>
+               <item>Joſeph Wright.</item>
+               <item>Richard Wynn.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Arch-Biſhop of</hi> York.</item>
+               <item>
+                  <hi>Sir</hi> Walter Young.</item>
+               <item>Elihu Yale.</item>
+               <item>Richard Yerbery.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi>
+deceas'd, Printers to the Kings moſt Excellent Majeſty. 1695.</p>
+            <pb facs="tcp:50038:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
